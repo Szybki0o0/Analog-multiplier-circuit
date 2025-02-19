@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MSOP8_MC_MCH-L")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "N08E_TEX")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "SO-8_S_LIT-L")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "CAP_B32529_02.5X06.5X07.3_TDK")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "POT_3214W")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "SOICN8_DG_VIS-L")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "KS_6_ADI-L")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "MSOP8_MC_MCH-M")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6/footprints.pretty")(options "")(descr ""))
+)
